@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:responsiveadaptive_ui/models/drawer_item_model.dart';
 import 'package:responsiveadaptive_ui/widgets/active_in_active_drawer.dart';
 import 'package:responsiveadaptive_ui/widgets/custom_list_tile.dart';
